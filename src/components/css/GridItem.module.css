@@ -1,0 +1,24 @@
+.card {
+  align-content: center;
+  background-color: rgba(48, 85, 105, 0.3);
+  border: 1px solid #000;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  margin-right: 2rem;
+  width: 30%;
+  overflow: hidden;
+}
+
+.card img {
+  max-height: 170px;
+  width: 100%;
+}
+
+.card p {
+  color: #12e6c8;
+  font-family: cursive;
+  padding: 0.5rem;
+  text-align: center;
+  text-shadow: 2px 2px 5px #000;
+  text-transform: capitalize;
+}
